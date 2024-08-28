@@ -1,0 +1,10 @@
+{
+    "CPU_AGNOSTIC_SETTINGS": "Enable or disable CPU affinity here.",
+    "MultiThreadedCPU": true,
+    "SetCPUAffinity": true,
+
+    "INTEL_PE-CORE_SETTINGS": "Set your processor settings here if you run an Intel PE Core processor.",
+    "IntelPECoreCPU": false,
+    "IntelPCores": 2,
+    "IntelECores": 2
+}
