@@ -14,7 +14,7 @@
 
   <h3 align="center">StartSPT</h3>
 
-  <p align="center">Let's Go!.<br /></p>
+  <p align="center">Let's Go!<br /></p>
 
   [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X611JH15)
 </div>
